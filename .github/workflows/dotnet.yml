@@ -21,7 +21,7 @@ jobs:
            dotnet-version: '6.0.x'
            
      - name: Restore Dependencies
-       run: dotnet restore
+       run: dotnet restore Ice_Task_4/Ice_Task_4.csproj
        
      - name: Build
-       run: dotnet restore Ice_Task_4.sln
+       run: dotnet build Ice_Task_4/Ice_Task_4.csproj --no-restore
