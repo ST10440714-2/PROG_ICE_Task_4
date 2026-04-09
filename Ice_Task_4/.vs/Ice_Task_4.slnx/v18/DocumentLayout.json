@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 4\\Ice_Task_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F087A9D0-1FA2-4A4B-98E1-349825BD2B47}|Ice_Task_4\\Ice_Task_4.csproj|c:\\users\\tyler sydney\\desktop\\ice task 4\\ice_task_4\\ice_task_4\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F087A9D0-1FA2-4A4B-98E1-349825BD2B47}|Ice_Task_4\\Ice_Task_4.csproj|solutionrelative:ice_task_4\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99B43BD9-0C31-9D08-5358-F7EB27DC8299}|Ice_Task_4\\Ice_Task_4.csproj|c:\\users\\tyler sydney\\desktop\\ice task 4\\ice_task_4\\ice_task_4\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B43BD9-0C31-9D08-5358-F7EB27DC8299}|Ice_Task_4\\Ice_Task_4.csproj|solutionrelative:ice_task_4\\delegate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F087A9D0-1FA2-4A4B-98E1-349825BD2B47}|Ice_Task_4\\Ice_Task_4.csproj|c:\\users\\tyler sydney\\desktop\\ice task 4\\ice_task_4\\ice_task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F087A9D0-1FA2-4A4B-98E1-349825BD2B47}|Ice_Task_4\\Ice_Task_4.csproj|solutionrelative:ice_task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99B43BD9-0C31-9D08-5358-F7EB27DC8299}|Ice_Task_4\\Ice_Task_4.csproj|c:\\users\\tyler sydney\\desktop\\ice task 4\\ice_task_4\\ice_task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B43BD9-0C31-9D08-5358-F7EB27DC8299}|Ice_Task_4\\Ice_Task_4.csproj|solutionrelative:ice_task_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99B43BD9-0C31-9D08-5358-F7EB27DC8299}|Ice_Task_4\\Ice_Task_4.csproj|c:\\users\\tyler sydney\\desktop\\ice task 4\\ice_task_4\\ice_task_4\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99B43BD9-0C31-9D08-5358-F7EB27DC8299}|Ice_Task_4\\Ice_Task_4.csproj|solutionrelative:ice_task_4\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +27,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Delegate.cs",
+              "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 4\\Ice_Task_4\\Ice_Task_4\\Delegate.cs",
+              "RelativeDocumentMoniker": "Ice_Task_4\\Delegate.cs",
+              "ToolTip": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 4\\Ice_Task_4\\Ice_Task_4\\Delegate.cs",
+              "RelativeToolTip": "Ice_Task_4\\Delegate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T13:47:37.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\Tyler Sydney\\Desktop\\Ice Task 4\\Ice_Task_4\\Ice_Task_4\\Registration.cs",
               "RelativeDocumentMoniker": "Ice_Task_4\\Registration.cs",
